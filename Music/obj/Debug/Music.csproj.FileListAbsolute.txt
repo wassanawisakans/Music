@@ -1,0 +1,10 @@
+C:\Users\ITPC332\source\repos\Music\Music\bin\Debug\Music.exe.config
+C:\Users\ITPC332\source\repos\Music\Music\bin\Debug\Music.exe
+C:\Users\ITPC332\source\repos\Music\Music\bin\Debug\Music.pdb
+C:\Users\ITPC332\source\repos\Music\Music\obj\Debug\Music.csprojAssemblyReference.cache
+C:\Users\ITPC332\source\repos\Music\Music\obj\Debug\Music.Form1.resources
+C:\Users\ITPC332\source\repos\Music\Music\obj\Debug\Music.Properties.Resources.resources
+C:\Users\ITPC332\source\repos\Music\Music\obj\Debug\Music.csproj.GenerateResource.cache
+C:\Users\ITPC332\source\repos\Music\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+C:\Users\ITPC332\source\repos\Music\Music\obj\Debug\Music.exe
+C:\Users\ITPC332\source\repos\Music\Music\obj\Debug\Music.pdb
